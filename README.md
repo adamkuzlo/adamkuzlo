@@ -240,7 +240,7 @@
     </tr>  
 </table>
 
-#### I am an experienced blockchain developer and work on DeFi projects.
+#### I am an experienced web developer and designer.
 
 - Liquidswap - the 1st DEX on Aptos
 - Fork of PancakeSwap, GooseDeFi, PantherSwap.

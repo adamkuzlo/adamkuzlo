@@ -25,9 +25,10 @@
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="55" height="55"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="55" height="55"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/webflow/webflow-original.svg" alt="webflow" width="55" height="55"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="55" height="55"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-plain.svg" alt="figma" width="55" height="55"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="55" height="55"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="55" height="55"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="55" height="55"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="react" width="55" height="55"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="webpack" width="55" height="55"/></td>
   </tr>

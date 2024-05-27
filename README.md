@@ -98,15 +98,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kroim&theme=dark&date_format=j%2Fn%5B%2FY%5D" />
 </p>
 
-<a target="_blank"><img align="left" height="250" width="250" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
-
 ## 📫 How to Reach me:
 
 <p align="left">
   <a href="https://join.skype.com/invite/BovXFoNcdbyy" target="blank"><img src="https://img.shields.io/badge/skype-%23181717.svg?style=plastic&logo=skype&logoColor=white" alt="Skype"/></a>
-  <a href="https://t.me/sunmoon11100" target="blank"><img src="https://img.shields.io/badge/telegram-%23181717.svg?style=plastic&logo=telegram&logoColor=white" alt="Telegram"/></a>
-  <a href="sunmoon11100:@gmail.com"><img src="https://img.shields.io/badge/gmail-%23181717.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://github.com/sunmoon11100"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://t.me/gary_turn" target="blank"><img src="https://img.shields.io/badge/telegram-%23181717.svg?style=plastic&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="mailto:admakuzlo619@gmail.com"><img src="https://img.shields.io/badge/gmail-%23181717.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://github.com/adamkuzlo"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 <br/>
 
@@ -117,7 +115,6 @@
 </p>
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/sunmoon11100" alt="Profile views"/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sunmoon11100.sunmoon11100" alt="visitors"/>
 </p>
 

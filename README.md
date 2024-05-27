@@ -95,7 +95,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kroim&theme=dark&date_format=j%2Fn%5B%2FY%5D" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=adamkuzlo&theme=dark&date_format=j%2Fn%5B%2FY%5D" />
 </p>
 
 ## 📫 How to Reach me:

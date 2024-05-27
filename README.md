@@ -20,55 +20,59 @@
 <h3 align="left">Technologies</h3>
 <table>
   <tr>
-    <td><img src="https://avatars.githubusercontent.com/u/100313099?s=200&v=4" alt="aptos" width="55" height="55"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="55" height="55"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="55" height="55"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="55" height="55"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" alt="laravel" width="55" height="55"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain-wordmark.svg" alt="codeigniter" width="55" height="55"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/webflow/webflow-original.svg" alt="webflow" width="55" height="55"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="55" height="55"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="55" height="55"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="55" height="55"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="55" height="55"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="react" width="55" height="55"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/drupal/drupal-original.svg" alt="drupal" width="55" height="55" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jquery" width="55" height="55"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="webpack" width="55" height="55"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="55" height="55"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django" width="55" height="55"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" alt="laravel" width="55" height="55"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/yii/yii-original.svg" alt="yii" width="55" height="55"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express" width="55" height="55"/></td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="55" height="55"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="55" height="55"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="55" height="55"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="55" height="55"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="55" height="55"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" alt="ruby" width="55" height="55"/></td>
   </tr>
   <tr>
-  <td><img src="https://github.com/devicons/devicon/blob/master/icons/drupal/drupal-original.svg" alt="drupal" width="55" height="55" /></td>
-  <td><img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" alt="eslint" width="55" height="55" /></td>
-  <td><img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="55" height="55" /></td>
-  <td><img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain-wordmark.svg" alt="axios" width="55" height="55" /></td>
-  <td><img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" alt="esling" width="55" height="55" /></td>
-  <td><img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" alt="composer" width="55" height="55" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="55" height="55"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" alt="firebase" width="55" height="55"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazonwebservices" width="55" height="55"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" alt="composer" width="55" height="55" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" alt="heroku" width="55" height="55"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" alt="gatsby" width="55" height="55"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" alt="netlify" width="55" height="55"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" alt="sequelize" width="55" height="55"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/ngrx/ngrx-original.svg" alt="ngrx" width="55" height="55"/></td>
   </tr>
   <tr>
-  <td><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" alt="firebase" width="55" height="55"/></td>
-  <td><img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" alt="gatsby" width="55" height="55"/></td>
-  <td><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="55" height="55"/></td>
-  <td><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="55" height="55"/></td>
-  <td><img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" alt="heroku" width="55" height="55"/></td>
-  <td><img src="https://github.com/devicons/devicon/blob/master/icons/homebrew/homebrew-original.svg" alt="homebrew" width="55" height="55"/></td>
-  <td><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jquery" width="55" height="55"/></td>
-  <td><img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" alt="json" width="55" height="55"/></td>
-  <td><img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="materialui" width="55" height="55"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="55" height="55" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain-wordmark.svg" alt="axios" width="55" height="55" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="react" width="55" height="55"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" alt="prisma" width="55" height="55"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="55" height="55"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="55" height="55"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="55" height="55"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/pnpm/pnpm-original.svg" alt="pnpm" width="55" height="55"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="postman" width="55" height="55"/></td>
   </tr>
   <tr>
-  <td><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="55" height="55"/></td>
-  <td><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="55" height="55"/></td>
-  <td><img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" alt="netlify" width="55" height="55"/></td>
-  <td><img src="https://github.com/devicons/devicon/blob/master/icons/ngrx/ngrx-original.svg" alt="ngrx" width="55" height="55"/></td>
-  <td><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original.svg" alt="npm" width="55" height="55"/></td>
-  <td><img src="https://github.com/devicons/devicon/blob/master/icons/pnpm/pnpm-original.svg" alt="pnpm" width="55" height="55"/></td>
-  <td><img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="postman" width="55" height="55"/></td>
-  <td><img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" alt="prisma" width="55" height="55"/></td>
-  <td><img src="https://github.com/devicons/devicon/blob/master/icons/oauth/oauth-original.svg" alt="oauth" width="55" height="55"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="55" height="55"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="55" height="55"/></td>    
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="materialui" width="55" height="55"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" alt="json" width="55" height="55"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="webpack" width="55" height="55"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" alt="esling" width="55" height="55" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" alt="eslint" width="55" height="55" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/oauth/oauth-original.svg" alt="oauth" width="55" height="55"/></td>
   </tr>
 </table>
 

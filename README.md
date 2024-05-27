@@ -1,8 +1,8 @@
 ![](./src/header_.png)
-<p align="center">
-  <a href="https://github.com/ninja-1337"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋,+I+am+Victor;+Welcome+to+My+GitHub+Profile!;BlockChain%20Developer;Full%20Stack%20Developer;Penetration+tester;12%2B%20years%20of%20coding%20experience;Always%20learning%20new%20stuffs&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
-</p>
 
+<p align="center">
+  <a href="https://github.com/ninja-1337"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋,+I+am+Adam;+Welcome+to+My+GitHub+Profile!;Full%stack%20Developer;Webflow%20Developer+Designer;Wordpress%Developer;12%2B%20years%20of%20coding%20experience;Always%20learning%20new%20stuffs&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+</p>
 
 <h3 align="left">Programming Languages</h3>
 <table>
@@ -57,9 +57,9 @@
 
 <div align="center">
 
- sunmoon11100 | sunmoon11100
---- | --- 
-![github stats](https://github-readme-stats.vercel.app/api?username=sunmoon11100&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_title=true) | ![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sunmoon11100&theme=github_dark&layout=compact&langs_count=8)
+| sunmoon11100                                                                                                                                                                    | sunmoon11100                                                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![github stats](https://github-readme-stats.vercel.app/api?username=sunmoon11100&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_title=true) | ![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sunmoon11100&theme=github_dark&layout=compact&langs_count=8) |
 
 </div>
 
@@ -68,7 +68,9 @@
 </p>
 
 <a target="_blank"><img align="left" height="250" width="250" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
+
 ## 📫 How to Reach me:
+
 <p align="left">
   <a href="https://join.skype.com/invite/BovXFoNcdbyy" target="blank"><img src="https://img.shields.io/badge/skype-%23181717.svg?style=plastic&logo=skype&logoColor=white" alt="Skype"/></a>
   <a href="https://t.me/sunmoon11100" target="blank"><img src="https://img.shields.io/badge/telegram-%23181717.svg?style=plastic&logo=telegram&logoColor=white" alt="Telegram"/></a>
@@ -78,6 +80,7 @@
 <br/>
 
 ## Git profile Trophies
+
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunmoon11100&theme=onedark&column=7&no-bg=true" alt="trophy" width="800px"/></a> 
 </p>
@@ -88,6 +91,7 @@
 </p>
 
 ### DeFi Experiences
+
 - NFT Mint Dapps
 <table>
     <thead align="center">
@@ -209,6 +213,7 @@
 </table>
 
 #### I am an experienced blockchain developer and work on DeFi projects.
+
 - Liquidswap - the 1st DEX on Aptos
 - Fork of PancakeSwap, GooseDeFi, PantherSwap.
 - Decentralized Exchanges with TradingView.
@@ -216,9 +221,7 @@
 - Smart contracts for erc20, erc721 with token pre-sale, redistribution, etc.
 
 ---
-  *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it.*
----
 
+## _If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it._
 
 If you want to contribute to any of my repositories, feel free to submit PRs, issues and email me. Pick a slot if you'd like to meet me and chat about proposals and ideas - but make sure to describe the agenda
-  

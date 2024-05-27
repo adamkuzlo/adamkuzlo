@@ -29,7 +29,6 @@
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="55" height="55"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="55" height="55"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/drupal/drupal-original.svg" alt="drupal" width="55" height="55" /></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jquery" width="55" height="55"/></td>
   </tr>
   <tr>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="55" height="55"/></td>
@@ -73,6 +72,7 @@
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" alt="esling" width="55" height="55" /></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" alt="eslint" width="55" height="55" /></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/oauth/oauth-original.svg" alt="oauth" width="55" height="55"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jquery" width="55" height="55"/></td>
   </tr>
 </table>
 
@@ -86,16 +86,11 @@
   </tr>  
 </table>
 
-<!--   GitHub stats graph -->
-<h1 align="center">📈 GitHub Activity Graph: 📊</h1>
-
-[![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sunmoon11100&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <div align="center">
 
-| sunmoon11100                                                                                                                                                                    | sunmoon11100                                                                                                                                |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![github stats](https://github-readme-stats.vercel.app/api?username=sunmoon11100&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_title=true) | ![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sunmoon11100&theme=github_dark&layout=compact&langs_count=8) |
+| adamkuzlo                                                                                                                                                                    | adamkuzlo                                                                                                                                |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| ![github stats](https://github-readme-stats.vercel.app/api?username=adamkuzlo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_title=true) | ![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=adamkuzlo&theme=github_dark&layout=compact&langs_count=8) |
 
 </div>
 

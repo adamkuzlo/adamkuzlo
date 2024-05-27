@@ -6,14 +6,14 @@
 <table>
   <tr>
     <td><img src="https://avatars.githubusercontent.com/u/89158114?s=200&v=4" alt="move" width="55" height="55"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" alt="solidity" width="55" height="55"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" alt="rust" width="55" height="55"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="55" height="55"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width="55" height="55"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/css/css3-original.svg" alt="css" width="55" height="55"/></td>    
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="55" height="55"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="55" height="55"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="c#" width="55" height="55"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="55" height="55"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="55" height="55"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="55" height="55"/></td>
   </tr>  
 </table>

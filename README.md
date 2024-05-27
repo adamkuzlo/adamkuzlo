@@ -58,6 +58,8 @@
   <td><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jquery" width="55" height="55"/></td>
   <td><img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" alt="json" width="55" height="55"/></td>
   <td><img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="materialui" width="55" height="55"/></td>
+  </tr>
+  <tr>
   <td><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="55" height="55"/></td>
   <td><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="55" height="55"/></td>
   <td><img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" alt="netlify" width="55" height="55"/></td>

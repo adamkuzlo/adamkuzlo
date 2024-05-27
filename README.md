@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/ninja-1337"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋,+I+am+Adam;+Welcome+to+My+GitHub+Profile!;Full%stack%20Developer;Webflow%20Developer+Designer;Wordpress%Developer;12%2B%20years%20of%20coding%20experience;Always%20learning%20new%20stuffs&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/ninja-1337"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋,+I+am+Adam;+Welcome+to+My+GitHub+Profile!;Full+stack%20Developer;Webflow%20Developer+Designer;Wordpress+Developer;12%2B%20years%20of%20coding%20experience;Always%20learning%20new%20stuffs&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 <h3 align="left">Programming Languages</h3>

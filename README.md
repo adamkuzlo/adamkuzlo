@@ -20,38 +20,38 @@
 <h3 align="left">Technologies</h3>
 <table>
   <tr>
-    <td><img src="https://avatars.githubusercontent.com/u/100313099?s=200&v=4" alt="aptos" width="40" height="40"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/webflow/webflow-original.svg" alt="webflow" width="40" height="40"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="react" width="40" height="40"/></td>
-    <td><img src="https://fontawesome.com/icons/cms?style=solid" alt="react" width="40" height="40"/></td>
+    <td><img src="https://avatars.githubusercontent.com/u/100313099?s=200&v=4" alt="aptos" width="55" height="55"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="55" height="55"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="55" height="55"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="55" height="55"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/webflow/webflow-original.svg" alt="webflow" width="55" height="55"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="55" height="55"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="55" height="55"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="55" height="55"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="react" width="55" height="55"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="webpack" width="55" height="55"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/yii/yii-original.svg" alt="yii" width="40" height="40"/></td>
-    <td><img src="https://github.com/sunmoon11100/profile/blob/main/icons/icon_nft.png" alt="nft" width="40" height="40"/></td>
-    <td><img src="https://github.com/sunmoon11100/profile/blob/main/icons/icon_defi.png" alt="defi" width="40" height="40"/></td>
-    <td><img src="https://github.com/sunmoon11100/profile/blob/main/icons/icon_bitcoin.png" alt="bitcoin" width="40" height="40"/></td>
-    <td><img src="https://github.com/sunmoon11100/profile/blob/main/icons/icon_metamask.png" alt="metamask" width="40" height="40"/></td>
-    <td><img src="https://github.com/sunmoon11100/profile/blob/main/icons/icon_truffle.png" alt="truffle" width="40" height="40"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="55" height="55"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django" width="55" height="55"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" alt="laravel" width="55" height="55"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/yii/yii-original.svg" alt="yii" width="55" height="55"/></td>
+    <td><img src="https://github.com/sunmoon11100/profile/blob/main/icons/icon_nft.png" alt="nft" width="55" height="55"/></td>
+    <td><img src="https://github.com/sunmoon11100/profile/blob/main/icons/icon_defi.png" alt="defi" width="55" height="55"/></td>
+    <td><img src="https://github.com/sunmoon11100/profile/blob/main/icons/icon_bitcoin.png" alt="bitcoin" width="55" height="55"/></td>
+    <td><img src="https://github.com/sunmoon11100/profile/blob/main/icons/icon_metamask.png" alt="metamask" width="55" height="55"/></td>
+    <td><img src="https://github.com/sunmoon11100/profile/blob/main/icons/icon_truffle.png" alt="truffle" width="55" height="55"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="55" height="55"/></td>
   </tr>  
 </table>
 
 <h3 align="left">Operating Systems</h3>
 <table>
   <tr>
-  <td><img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/></td>
-  <td><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="inux" width="40" height="40"/></td>
-  <td><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></td>
-  <td><img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" alt="webstorm" width="40" height="40"/></td>
+  <td><img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" alt="windows" width="55" height="55"/></td>
+  <td><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="inux" width="55" height="55"/></td>
+  <td><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="55" height="55"/></td>
+  <td><img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" alt="webstorm" width="55" height="55"/></td>
   </tr>  
 </table>
 
